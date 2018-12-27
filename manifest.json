@@ -1,0 +1,21 @@
+{
+  "name": "Go 0wikipedia",
+  "version": "1.0",
+  "description": "Automatically redirect to 0wikipedia.org",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.wikipedia.org/*"
+  ]
+}
