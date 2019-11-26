@@ -4,7 +4,7 @@
 
 Turkish authorities blocked online access to all language editions of the online encyclopedia Wikipedia throughout Turkey.
 
-This extension automatically redirect to 2wikipedia.org.
+This extension automatically redirect to 0wikipedia.org.
 
 ## Getting help ##
 
